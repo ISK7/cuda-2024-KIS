@@ -1,4 +1,3 @@
-// Copyright (c) 2024 Kiselev Igor
 #include "gelu_omp.h"
 
 #include <omp.h>

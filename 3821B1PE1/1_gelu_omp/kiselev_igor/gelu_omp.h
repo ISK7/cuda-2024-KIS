@@ -1,4 +1,3 @@
-// Copyright (c) 2024 Kiselev Igor
 #ifndef __GELU_OMP_H
 #define __GELU_OMP_H
 
